@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Milionário com Celular</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background: #0a0a0a;
+      color: #f0f0f0;
+    }
+    header {
+      padding: 60px 20px;
+      text-align: center;
+      background: linear-gradient(135deg, #00c3ff, #7700ff);
+      color: white;
+    }
+    header h1 {
+      font-size: 2.8em;
+      margin: 0;
+      font-weight: 800;
+    }
+    header p {
+      font-size: 1.3em;
+      margin-top: 15px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #00c3ff;
+      margin-bottom: 20px;
+      font-size: 1.8em;
+    }
+    .highlight {
+      color: #00ff88;
+      font-weight: bold;
+    }
+    .cta {
+      display: block;
+      width: fit-content;
+      margin: 50px auto;
+      padding: 20px 40px;
+      font-size: 1.3em;
+      font-weight: bold;
+      color: white;
+      background: #00c3ff;
+      border: none;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: 0.3s;
+      box-shadow: 0 0 15px #00c3ff;
+    }
+    .cta:hover {
+      background: #00a3cc;
+      box-shadow: 0 0 25px #00c3ff;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li::before {
+      content: '✔️ ';
+      color: #00ff88;
+    }
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      color: #888;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Milionário com Celular</h1>
+    <p>Aprenda comigo a lucrar no mercado financeiro com seu celular em até <span class="highlight">7 dias</span>. Transforme sua realidade com pouco tempo e muito resultado.</p>
+  </header>
+
+  <div class="section">
+    <h2>O que você vai aprender:</h2>
+    <ul>
+      <li>Como ter consistência e disciplina mesmo com banca pequena</li>
+      <li>Controle emocional para decisões mais seguras</li>
+      <li>O mindset de quem realmente lucra</li>
+      <li>Passo a passo simples e objetivo para sua rotina</li>
+      <li>Estratégias práticas, sem enrolação</li>
+      <li>Grupo VIP com suporte e networking</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Por que essa mentoria é única?</h2>
+    <p>Essa não é mais uma mentoria. É um atalho com base real. Foi criada por quem veio de baixo, começou do zero e construiu tudo com o celular na mão. Aqui você vai aprender o que FUNCIONA na prática.</p>
+    <p><span class="highlight">Você não precisa ter experiência.</span> Só precisa estar disposto a seguir um método validado, simples e com suporte.</p>
+  </div>
+
+  <div class="section">
+    <h2>Oferta Limitada</h2>
+    <p><strong>De R$597,00 por apenas R$149,90</strong></p>
+    <p>Menos que uma pizza no fim de semana. Mas com o potencial de mudar sua vida financeira.</p>
+    <p>Em até 12x no cartão. Vagas limitadas.</p>
+    <p class="highlight">A cada minuto você adia sua transformação. O melhor momento é agora.</p>
+  </div>
+
+  <div class="section">
+    <h2>Garantia de 30 Dias</h2>
+    <p>Se em até <strong>30 dias</strong> você não tiver resultados, você recebe <strong>100% do seu dinheiro de volta</strong>. Simples assim.</p>
+    <p>Você entra, testa, aplica e se não gostar — recebe tudo de volta.</p>
+  </div>
+
+  <div class="section">
+    <h2>Grupo VIP Exclusivo</h2>
+    <p>Você não vai estar sozinho. Vai estar com traders que também estão no mesmo caminho.</p>
+    <ul>
+      <li>Trocas de experiências reais</li>
+      <li>Suporte para dúvidas e acompanhamento</li>
+      <li>Provas de resultado diárias</li>
+    </ul>
+  </div>
+
+  <a href="https://wa.me/SEUNUMEROAQUI" class="cta">FALAR COM O MENTOR NO WHATSAPP</a>
+
+  <footer>
+    &copy; 2025 Milionário com Celular. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
